@@ -1,0 +1,15 @@
+D:\Projetos\bank-transfer-dotnet\bin\Debug\net6.0\bank-transfer-dotnet.exe
+D:\Projetos\bank-transfer-dotnet\bin\Debug\net6.0\bank-transfer-dotnet.deps.json
+D:\Projetos\bank-transfer-dotnet\bin\Debug\net6.0\bank-transfer-dotnet.runtimeconfig.json
+D:\Projetos\bank-transfer-dotnet\bin\Debug\net6.0\bank-transfer-dotnet.dll
+D:\Projetos\bank-transfer-dotnet\bin\Debug\net6.0\ref\bank-transfer-dotnet.dll
+D:\Projetos\bank-transfer-dotnet\bin\Debug\net6.0\bank-transfer-dotnet.pdb
+D:\Projetos\bank-transfer-dotnet\obj\Debug\net6.0\bank-transfer-dotnet.csproj.AssemblyReference.cache
+D:\Projetos\bank-transfer-dotnet\obj\Debug\net6.0\bank-transfer-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\bank-transfer-dotnet\obj\Debug\net6.0\bank-transfer-dotnet.AssemblyInfoInputs.cache
+D:\Projetos\bank-transfer-dotnet\obj\Debug\net6.0\bank-transfer-dotnet.AssemblyInfo.cs
+D:\Projetos\bank-transfer-dotnet\obj\Debug\net6.0\bank-transfer-dotnet.csproj.CoreCompileInputs.cache
+D:\Projetos\bank-transfer-dotnet\obj\Debug\net6.0\bank-transfer-dotnet.dll
+D:\Projetos\bank-transfer-dotnet\obj\Debug\net6.0\ref\bank-transfer-dotnet.dll
+D:\Projetos\bank-transfer-dotnet\obj\Debug\net6.0\bank-transfer-dotnet.pdb
+D:\Projetos\bank-transfer-dotnet\obj\Debug\net6.0\bank-transfer-dotnet.genruntimeconfig.cache
